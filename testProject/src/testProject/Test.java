@@ -1,5 +1,5 @@
 package testProject;
 
 public class Test {
-	String test ="TESTaaaaa1212a"; 
+	String test ="TESTaaaaa12dddddd12a"; 
 }
